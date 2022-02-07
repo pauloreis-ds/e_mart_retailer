@@ -2,7 +2,8 @@
   <img src="images/presentation_slide1.png" width="850" />
 </p>  
 
-[.ipynb]()
+[pr_v01_sales_time_series_analysis.ipynb](https://github.com/pauloreis-ds/e_mart_retailer/blob/main/project_sales_forecast/notebooks/pr_v01_sales_time_series_analysis.ipynb) <br>
+[pr_v01_sales_time_series_forecast.ipynb](https://github.com/pauloreis-ds/e_mart_retailer/blob/main/project_sales_forecast/notebooks/pr_v01_sales_time_series_forecast.ipynb) <br>
 
 [Power BI Dashboard](https://youtu.be/3pxnHZv4ywY)
 
