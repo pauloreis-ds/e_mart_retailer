@@ -13,3 +13,10 @@ The board of directors expects:
 - **Sales forecast for the next year, in order to enable strategic planning.**
 
 Cycle 2
+
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---

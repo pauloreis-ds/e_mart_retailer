@@ -142,3 +142,9 @@ _Dark Theme:_
 
         It provides clarity on how well the business is retaining customers, which is a reflection
         on the quality of the service the business is providing, as well as its usefulness.
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---

@@ -66,3 +66,9 @@ However, during testing, as We got an error of 8.64%, this is our confidence int
 <p align="center">
   <img src="images/dashboard_forecast.PNG" width="850" />
 </p>
+
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---
