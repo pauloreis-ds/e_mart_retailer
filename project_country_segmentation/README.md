@@ -2,8 +2,8 @@
   <img src="images/presentation_slide1.png" width="850" />
 </p>
 
-[]() <br>
-[]() <br>
+[pr_v01_geographic_segmentation.ipynb](https://github.com/pauloreis-ds/e_mart_retailer/blob/main/project_country_segmentation/notebooks/pr_v01_geographic_segmentation.ipynb) <br>
+[pr_v01_geographic_segmentation_analysis.ipynb](https://github.com/pauloreis-ds/e_mart_retailer/blob/main/project_country_segmentation/notebooks/pr_v01_geographic_segmentation_analysis.ipynb) <br>
 
 <p align="center">
   <img src="images/presentation_slide2.png" width="850" />
@@ -59,6 +59,10 @@ Features = Profit, Sales, Discounts. <br>
 
 **The result was 3 groups:**
 
+<p align="center">
+  <img src="images/presentation_slide8.png" width="850" />
+</p>
+
     One cluster with 8 high performance countries:
         Really great Sales.
         Huge Profit.
@@ -73,9 +77,7 @@ Features = Profit, Sales, Discounts. <br>
         They are not generating profit to the company, but deficit.
         
 
-<p align="center">
-  <img src="images/presentation_slide8.png" width="850" />
-</p>
+
 
 
 
@@ -127,7 +129,7 @@ and may accomplish similar returns.
 
 
 
-_I analyzed data from last year (2014) to work with the most current data._
+_ps: I analyzed data from last year (2014) to work with the most current data._
 
 
 
