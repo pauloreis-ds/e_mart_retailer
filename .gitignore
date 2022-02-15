@@ -3,7 +3,6 @@ data/
 */presentation/*
 .idea/
 project_customer_segmentation/notebooks/pr_v01_customer_segmentation_analysis.ipynb
-project_customer_churn
 
 ### VirtualEnv template
 # Virtualenv

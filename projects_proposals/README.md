@@ -29,8 +29,16 @@ Therefore, we need to identify customer personas and their value.
 - **Which of our customers can be retained?**
 
 
+Phase 3 
 
+Customer Churn has been decreasing in the last years, and E-Mart wants to make sure to keep it that way.
+That's why the company needs to predict which customer is going to stop buying. Data Products asked:
 
+- **A list of customer IDs and their probability of churn.**
+
+- **What's the model performance in predicting customer churn?**
+
+- **What's the monetary return  the model will bring?**
 
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)

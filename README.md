@@ -30,11 +30,30 @@ E-Mart is a Chinese retailer that discovered the e-commerce as a way to sell to 
 > - An Analysis of the countries, a segmentation by sales, profit and more. They need insights to help increase revenue.
 
 
-## []()
+## [Customer Segmentation](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/project_customer_segmentation)
+
+> **E-Mart wants to gain a better understanding of how It provides value to its customers. Based on customer understanding,
+> the retailer will focus on increasing sales by creating messaging that resonates with target audience. 
+> In other words, The ultimate goal of this project is being able to target our users differently given their current status.**
+>
+> **Therefore, we need to identify customer personas and their value.**
+>
+> - Who are our best customers?
+> - Who has the potential to become valuable customers?
+> - Which of our customers are most likely to respond to engagement campaigns?
 
 
-## []()
 
+## [Preventing Customer Churn](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/project_customer_churn)
+
+> **Customer Churn has been decreasing during last years, and E-Mart wants to make sure to keep it that way.
+> That's why the company needs to predict which customer is going to stop buying. Data Products asked:**
+>
+> - A list of customer IDs and their probability of churn.
+>
+> - What's the model performance in predicting customer churn?
+>
+> - What's the monetary return  the model will bring?
 
 ## []()
 
