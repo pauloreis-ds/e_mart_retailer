@@ -14,7 +14,7 @@ At first, the board of directors expects:
 
 - **An Analysis on geolocation, a segmentation by sales, profit and more. They want insights to help increasing revenue.** 
 
-- **Sales forecast for the next year, in order to enable strategic planning.**
+- Sales forecast for the next year, in order to enable strategic planning.
 
 
     Questions asked by Managers

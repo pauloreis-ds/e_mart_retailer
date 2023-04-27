@@ -1,0 +1,157 @@
+****************************************************************************
+          MAPA – Material de Avaliação Prática da Aprendizagem
+****************************************************************************
+**Acadêmico: Paulo Henrique Sabino Reis	R.A.: 211228495
+**Curso: CIÊNCIAS DE DADOS E ANÁLISE DE COMPORTAMENTO
+**Disciplina: Banco de Dados NoSql
+****************************************************************************
+
+# !pip install pymongo
+# https://cloud.mongodb.com/v2/64452b41166cdf6feec718f1#/metrics/replicaSet/64452bd5e151ff65fa58e129/explorer
+from pymongo import MongoClient
+
+def insert_data(database, collection_name, collection):
+    for document in collection:
+        print(f"inserindo em {collection_name}: {document}")
+        database[collection_name].insert_one(document)
+
+
+# Connecting to Mongo ATLAS
+mongo_client = MongoClient('mongodb+srv://phsabinoreis:211228495@211228495.b2my98w.mongodb.net/?retryWrites=true&w=majority')
+
+try:
+    mongo_client.admin.command('ping')
+    print("Successfully connected to MongoDB!")
+    print()
+except Exception as e:
+    print(e)
+
+
+db = mongo_client['db_tasks']
+
+###### INSERT DATA ######
+#########################
+users_data = [
+  {
+      "name": "Jão",
+      "email": "jao@teste.com",
+      "password": "0x7f8a8be46af0",
+      "contact": {
+          "phone": "44-1-23456789",
+          "address": "Rua Postgres sem Sql",
+          "neighborhood": "Mongo",
+          "city": "Atlas",
+          "state": "Mai SKL",
+          "cep": "12345-678"
+      }
+  },
+  {
+      "name": "Mariah",
+      "email": "mariah@teste.com",
+      "password": "0x7f8a8bedea30",
+      "contact": {
+          "phone": "55-2-34567890",
+          "address": "Rua Cassandra",
+          "neighborhood": "Oracles raccanello",
+          "city": " Readshift",
+          "state": "Amazon",
+          "cep": "23456-789"
+      }
+  },
+  {
+      "name": "Pedro",
+      "email": "pedro@teste.com",
+      "password": "0x7f8a8be4afd0",
+      "contact": {
+          "phone": "66-3-45678901",
+          "address": "Rua Aurora Azure",
+          "neighborhood": "Silicon",
+          "city": "Arrecife",
+          "state": "Amazon",
+          "cep": "34567-891"
+      }
+  }
+]
+
+insert_data(db, 'users', users_data)
+
+teams_data = [
+    {
+      "name": "Homem de Ferro",
+      "description": "Equipe de desenvolvimento de software"
+  },
+  {
+      "name": "Homem Formiga",
+      "description": "Equipe de marketing digital"
+  },
+  {
+      "name": "Jarvis",
+      "description": "Equipe de suporte ao cliente"
+  }
+]
+
+insert_data(db, 'teams', teams_data)
+
+tasks_data = [
+    {
+    "title": "Criar tela de login",
+    "description": "Criar a tela de login do aplicativo",
+    "due_date": "2023-01-30",
+    "assigned_to": "Jão",
+    "status": "em andamento"
+  },
+  {
+      "title": "Implementar função de busca",
+      "description": "Implementar a função de busca no aplicativo",
+      "due_date": "2023-02-25",
+      "assigned_to": "Mariah",
+      "status": "em espera"
+  },
+  {
+      "title": "Atualizar documentação do usuário",
+      "description": "Atualizar a documentação do usuário do aplicativo",
+      "due_date": "2023-03-30",
+      "assigned_to": "Pedro",
+      "status": "concluída"
+  }
+]
+
+insert_data(db, 'task', tasks_data)
+
+comments_data = [
+    {
+      "member": "Mariah",
+      "date": "2023-01-15",
+      "text": "Estou com dúvidas sobre o layout da tela de login"
+  },
+  {
+      "member": "Pedro",
+      "date": "2023-02-01",
+      "text": "Precisamos definir a prioridade da função de busca"
+  },
+  {
+      "member": "Jão",
+      "date": "2023-03-15",
+      "text": "Acabei de concluir a tela de login, enviado para revisão"
+  }
+]
+
+insert_data(db, 'comments', comments_data)
+
+##### QUERIES #####
+###################
+
+print("\nConsultas com Filtros: ", end='\n\n')
+
+print(db['users'].find_one({"email": "pedro@teste.com"}), end='\n\n')
+
+print(db['teams'].find_one({"name": "Jarvis"}), end='\n\n')
+
+for task in db['task'].find({"assigned_to": "Jão"}):
+    print(task, end='\n\n')
+
+for comment in db['comments'].find({"member": "Mariah"}):
+      print(comment, end='\n\n')
+
+ 
+
