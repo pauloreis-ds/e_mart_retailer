@@ -30,3 +30,74 @@ At first, the board of directors expects:
       How often do our customers make a purchase and what is the average amount spent on each purchase?
 
       What is our current churn rate (customers who haven't purchased for more than 90 days)?
+      
+      
+<br>
+
+<br>
+      
+<p align="center">
+    <img src="images/presentation1.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+There are 4 years of data in which we acquired approximately 1,500 Customers and 25,000 Orders
+
+<p align="center">
+    <img src="images/presentation2.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+    <img src="images/presentation3.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+Revenue Growth Rate has been positive every year
+
+<p align="center">
+    <img src="images/presentation4.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+    <img src="images/presentation5.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+    <img src="images/presentation6.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+    <img src="images/presentation7.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+In other words, all of this indicates that customers are engaged and we can focus on acquiring more customers to increase revenue, because we know there is potential for repurchases.
+
+<p align="center">
+    <img src="images/presentation8.PNG"/>
+</p>
