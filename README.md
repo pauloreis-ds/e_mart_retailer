@@ -1,5 +1,8 @@
 The data can be accessed from this repository: https://github.com/pauloreisdatascience/datasets/tree/main/e_market
 
+<p align="center">
+    <img src="images/e_mart_logo.PNG"/>
+</p>
 
 
 # E-Mart Business Objectives
