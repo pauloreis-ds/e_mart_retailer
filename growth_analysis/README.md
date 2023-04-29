@@ -1,3 +1,9 @@
+[Context](#Context)<br>
+[Presentation](#Presentation)<br>
+[Power Bi Dashboard](#Power-Bi-Dashboard)<br>
+
+
+
 ## Context
 
 E-Mart is a Chinese retailer that discovered the e-commerce as a way to sell to the entire world, rather than just to the population of their home city. The company has been growing without much worries, and now It wants to start using the data collected during its 4 years of e-commerce to keep growing and make more money.
@@ -32,9 +38,7 @@ At first, the board of directors expects:
       What is our current churn rate (customers who haven't purchased for more than 90 days)?
       
       
-<br>
-
-<br>
+### Presentation
       
 <p align="center">
     <img src="images/presentation1.PNG"/>
@@ -61,8 +65,6 @@ There are 4 years of data in which we acquired approximately 1,500 Customers and
 <br>
 
 <br>
-
-Revenue Growth Rate has been positive every year
 
 <p align="center">
     <img src="images/presentation4.PNG"/>
@@ -101,3 +103,59 @@ In other words, all of this indicates that customers are engaged and we can focu
 <p align="center">
     <img src="images/presentation8.PNG"/>
 </p>
+
+
+
+### Power Bi Dashboard
+
+
+<p align="center">
+    <img src="images/powerbi.PNG"/>
+</p>
+
+
+**Revenue Growth Rate**
+
+    How fast are We growing?
+
+
+**Number of Orders**
+
+    What is our ability to generate purchasing opportunities?
+    
+
+**Repurchase Rate**
+
+    How many customers continue to buy?
+    
+
+**Number of New Customers**
+
+    Tracking Customer Acquisition. Is our Marketing Strategy 
+    (organic or not) working?
+    
+
+**Average Order Value**
+
+    Average amount of money a customer spends per transaction. 
+    It’s a key KPI because it helps measure how well We capitalize on cross-selling and
+    upselling opportunities.
+    
+    Increasing average order value is one of the most efficient ways to increase ecommerce
+    revenue. And, generally, the higher the AOV, the more We can spend to acquire a new customer.
+    
+    
+**Average Profit**
+
+    The more profit We can get out of a customer, the more We can afford to spend on acquiring 
+    a customer or even reinvesting in other areas of the company.. 
+
+    “For example, if each customer on average is worth 1,000 to you, you can afford to spend 
+    anything below 1,000 to be profitable. Whereas if a competitor’s average profit per customer
+    is only 200, they can’t spend anything above 200, but you can because each customer is worth more.”
+
+
+**Profit Margin**
+
+    It Measures The Profitability Of A Business
+
