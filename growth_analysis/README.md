@@ -18,7 +18,7 @@ At first, the board of directors expects:
 
 - **Robust Data Analysis, as well as recommendation of actions. What's the actionable based on your analysis?**
 
-- **An Analysis on geolocation, a segmentation by sales, profit and more. They want insights to help increasing revenue.** 
+- An Analysis on geolocation, a segmentation by sales, profit and more. They want insights to help increasing revenue.
 
 - Sales forecast for the next year, in order to enable strategic planning.
 
