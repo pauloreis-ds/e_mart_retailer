@@ -17,6 +17,11 @@ The data can be accessed from this repository: https://github.com/pauloreisdatas
 > - A Dashboard with KPIs to track their growth.
 
 
+## [Geolocation Segmentation](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/geolocation_analysis)
+
+> **Selling in more than 130 countries, E-Mart needs a way to group similar regions together and better approach them with specific strategies.**
+> 
+> - An Analysis on geolocation, a segmentation by sales, profit and more. They need insights to help increasing revenue
 
 
 
