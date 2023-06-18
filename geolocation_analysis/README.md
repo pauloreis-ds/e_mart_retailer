@@ -84,4 +84,107 @@ When analyzing why this happens, I found out that most discounts in these countr
 
 ### Segmentation
 
-On Going...
+Next step, I used a Cluster Algorithm (I would use K-Means due to its velocity, but since it’s not a big data challenge I went for a Hierarchical algorithm to identify most similar observations).
+
+<br>
+
+Most important features: profitability, average discount, average profit
+
+<br>
+
+**The result was 3 groups:**
+
+               One Focused on Sales.
+               Another one with less sales but Profitable Sales.
+               and the last causes Deficit to the company.
+
+
+<p align="center">
+    <img src="images/presentation7.PNG"/>
+</p>
+
+<br>
+
+            One cluster with 13 high performance countries:
+                Really great Sales (56% of Total Revenue).
+                Huge Profit (52% of Total Profit).
+                They represent most of our sales (60% the Number of Orders). 
+                Average Profit: $ 79
+
+            The other cluster have 105 countries:
+                An Average Profit higher than the high performance group ($ 109)
+                but they do not buy as much (24% of Number of Orders,
+                31% of Total Revenue, 28% of Total Profit)        
+
+            The last group shows us a problem:
+                29 Countries with good sales (Average Ticket similar to the high performance group...
+                about $ 4,186.70), but it seems to be all in vain, because in the end of the day (year)
+                They are not generating profit to the company, but deficit.
+                With an Average Profit of $ -114
+
+<br>
+
+After further analysis, I was again able to see that the high discounts were likely to be the cause of this deficit.
+
+<br>
+
+<p align="center">
+    <img src="images/presentation8.PNG"/>
+</p>
+
+<br>
+
+So, without further ado:
+
+<br>
+
+<p align="center">
+    <img src="images/presentation9.PNG"/>
+</p>
+
+<br>
+
+            Extraordinary Performance? 
+                Let's leverage this selling power and use cross sell,
+                up sell to increase sales even more.
+
+            Profitable Performance:
+                We can also make use of cross/up sell to increase revenue.
+                And here, We have a great margin for use discounts in promotions.
+                (usually there are no discounts)
+                The average number of product per order is 5 whereas for the 
+                Extraordinary cluster it's 7. If We can increase the sales in this
+                group, They might as well become Extraordinary.
+
+            Bad Performance:
+                We are already losing money here. First, We should decrease discounts
+                and after, as the next step, figure out how to make profit out of this
+                group. (more on this right in the next section)
+                
+
+<br>
+
+Do We have losses just because of discounts? My personal hypothesis is "no". Then, the next step (if decrease discounts do not solve our problem) could be trying to uncover the real variables involved in this almost mystery.
+
+<p align="center">
+    <img src="images/presentation10.PNG"/>
+</p>
+
+<br>
+
+and also... a recommendation system would help with the cross-selling strategy, but a Market Basket Analysis is simpler and may accomplish similar returns.
+
+<br>
+
+<p align="center">
+    <img src="images/presentation11.PNG"/>
+</p>
+
+<br>
+
+<br>
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---
