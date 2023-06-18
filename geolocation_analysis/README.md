@@ -100,7 +100,7 @@ Most important features: profitability, average discount, average profit
 
 
 <p align="center">
-    <img src="images/presentation7.PNG"/>
+    <img src="images/presentation7.png"/>
 </p>
 
 <br>
@@ -129,7 +129,7 @@ After further analysis, I was again able to see that the high discounts were lik
 <br>
 
 <p align="center">
-    <img src="images/presentation8.PNG"/>
+    <img src="images/presentation8.png"/>
 </p>
 
 <br>
@@ -139,7 +139,7 @@ So, without further ado:
 <br>
 
 <p align="center">
-    <img src="images/presentation9.PNG"/>
+    <img src="images/presentation9.png"/>
 </p>
 
 <br>
@@ -167,7 +167,7 @@ So, without further ado:
 Do We have losses just because of discounts? My personal hypothesis is "no". Then, the next step (if decrease discounts do not solve our problem) could be trying to uncover the real variables involved in this almost mystery.
 
 <p align="center">
-    <img src="images/presentation10.PNG"/>
+    <img src="images/presentation10.png"/>
 </p>
 
 <br>
@@ -177,7 +177,7 @@ and also... a recommendation system would help with the cross-selling strategy, 
 <br>
 
 <p align="center">
-    <img src="images/presentation11.PNG"/>
+    <img src="images/presentation11.png"/>
 </p>
 
 <br>
