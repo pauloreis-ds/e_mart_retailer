@@ -24,8 +24,24 @@ The data can be accessed from this repository: https://github.com/pauloreisdatas
 > - An Analysis on geolocation, a segmentation by sales, profit and more. They need insights to help increasing revenue
 
 
+## [Sales Forecast](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/sales_forecast)
+
+> **SE-Mart wants to be able to predict future sales to efficiently allocate resources for future projects, growth and manage its cash flow.**
+> 
+> - We will use the data to forecast 2023 sales.
 
 
+## [Customer Segmentation]()
+
+> **Based on customer understanding, the retailer will focus on increasing sales by creating messages that resonate with the target audience.**
+> 
+> - Who are our best customers?
+>
+> - Who has the potential to become valuable customers?
+>
+> - Which of our customers are most likely to respond to engagement campaigns?
+
+On Going...
 
 
 
