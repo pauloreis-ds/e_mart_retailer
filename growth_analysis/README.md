@@ -159,3 +159,12 @@ In other words, all of this indicates that customers are engaged and we can focu
 
     It Measures The Profitability Of A Business
 
+
+<br>
+
+<br>
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---
