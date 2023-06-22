@@ -31,7 +31,7 @@ The data can be accessed from this repository: https://github.com/pauloreisdatas
 > - We will use the data to forecast 2023 sales.
 
 
-## [Customer Segmentation (On Going...)]()
+## [Customer Segmentation](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/customer_segmentation)
 
 > **Based on customer understanding, the retailer will focus on increasing sales by creating messages that resonate with the target audience.**
 > 
@@ -44,9 +44,24 @@ The data can be accessed from this repository: https://github.com/pauloreisdatas
 > - Which of our customers are most likely to respond to engagement campaigns?
 
 
+## [Customer Retention (Churn Prediction) (On Going...)]()
+
+> **Customer Retention indicates whether the product and the quality of service please existing customers. In order to retain customers, E-Mart aims to predict which customer is going to stop buying.**
+>
+> - A list of customer IDs and their probability of churn.
+>
+> - What's the model performance in predicting customer churn?
+>
+> - What's the monetary return  the model will bring?
+>
+> - What's Customers Churn Rate?
 
 
+<br>
 
+<br>
 
 
 [<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---
