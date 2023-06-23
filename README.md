@@ -44,7 +44,7 @@ The data can be accessed from this repository: https://github.com/pauloreisdatas
 > - Which of our customers are most likely to respond to engagement campaigns?
 
 
-## [Customer Retention (Churn Prediction) (On Going...)]()
+## [Customer Retention (Churn Prediction)](https://github.com/pauloreis-ds/e_mart_retailer/tree/main/customer_retention_churn)
 
 > **Customer Retention indicates whether the product and the quality of service please existing customers. In order to retain customers, E-Mart aims to predict which customer is going to stop buying.**
 >
